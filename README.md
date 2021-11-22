@@ -2,7 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Groovy         14 mins         ██████████▒░░░░░░░░░░░░░░   41.74 % 
+Java           14 mins         ██████████░░░░░░░░░░░░░░░   39.88 % 
+SQL            3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+XML            2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 ```
 <!--END_SECTION:waka-->
 

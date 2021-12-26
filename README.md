@@ -2,9 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-C#           1 hr 40 mins    ████████████████████▒░░░░   81.17 % 
-TypeScript   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript   20 mins         ██████████████████████░░░   87.61 % 
+Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 <!--END_SECTION:waka-->
 

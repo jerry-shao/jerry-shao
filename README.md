@@ -2,7 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#      21 mins         ████████████████▓░░░░░░░░   67.30 % 
+Other   10 mins         ████████▒░░░░░░░░░░░░░░░░   32.70 % 
 ```
 <!--END_SECTION:waka-->
 

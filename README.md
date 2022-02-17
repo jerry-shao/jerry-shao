@@ -2,13 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 40 mins
-
-Kotlin   57 mins         ██████████████▒░░░░░░░░░░   57.17 % 
-Java     18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.31 % 
-XML      11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Groovy   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Gradle   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

@@ -2,11 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript                 1 hr 41 mins    █████████▒░░░░░░░░░░░░░░░   37.21 % 
-Java                       1 hr 21 mins    ███████▒░░░░░░░░░░░░░░░░░   29.98 % 
-Brazil Dependency Config   52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Kotlin                     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-JSON                       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript                 2 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.64 % 
+Java                       1 hr 51 mins    ███████▓░░░░░░░░░░░░░░░░░   30.75 % 
+Brazil Dependency Config   52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Kotlin                     23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Ruby                       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->
 

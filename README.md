@@ -3,9 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 19 mins   ████████████████████████▒   97.58 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript       4 hrs 19 mins   █████████████████████░░░░   83.68 %
+Java             40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->

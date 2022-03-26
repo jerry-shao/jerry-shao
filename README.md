@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       7 hrs 52 mins   ███████████████████████░░   91.74 %
-TypeScript                 15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Groovy                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-JSON                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Brazil Dependency Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-GitIgnore file             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Java                       9 hrs 46 mins   ███████████████████████░░   92.27 %
+TypeScript                 15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript                 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Groovy                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+JSON                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Brazil Dependency Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->

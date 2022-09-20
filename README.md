@@ -3,7 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java                       0 secs          ████████████████████████░   95.55 %
+Brazil Dependency Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->

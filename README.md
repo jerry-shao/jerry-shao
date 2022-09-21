@@ -3,8 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       0 secs          ████████████████████████░   95.55 %
-Brazil Dependency Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Java                       14 mins         █████████████████████████   99.80 %
+Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Properties                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

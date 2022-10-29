@@ -3,10 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       7 hrs 3 mins    ███████████████▓░░░░░░░░░   63.09 %
-Python                     1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Brazil Dependency Config   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Other                      51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Java                       5 hrs 28 mins   █████████████████▒░░░░░░░   69.46 %
+Python                     1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Brazil Dependency Config   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+ERB                        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON                       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Ruby                       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->

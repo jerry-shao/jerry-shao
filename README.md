@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       2 hrs 46 mins   ███████████████████░░░░░░   75.71 %
-Python                     26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Brazil Dependency Config   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-ERB                        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-brazil-config              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-LOMBOK_CONFIG              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java                       3 hrs 28 mins   ████████████████▓░░░░░░░░   66.02 %
+Brazil Dependency Config   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Python                     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+JSON                       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Markdown                   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+XML                        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->

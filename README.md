@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       1 hr 39 mins    █████████████████████░░░░   83.82 %
-XML                        17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Brazil Dependency Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-GitIgnore file             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java   48 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

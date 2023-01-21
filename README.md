@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          █████████████████████████   100.00 %
+Java                       27 mins         ████████████████████▓░░░░   82.31 %
+Groovy                     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Brazil Dependency Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Gradle                     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Markdown                   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->

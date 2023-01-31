@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       19 mins         ████████████████████░░░░░   79.70 %
-Brazil Dependency Config   4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

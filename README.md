@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java       20 mins         ███████████▓░░░░░░░░░░░░░   46.80 %
+XML        13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.60 %
+Kotlin     9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

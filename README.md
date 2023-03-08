@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       1 hr 6 mins     ████████████▓░░░░░░░░░░░░   50.46 %
-Brazil Dependency Config   35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-XML                        16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Docker                     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-LOMBOK_CONFIG              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Kotlin                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java                       22 mins         ███████████████░░░░░░░░░░   60.27 %
+Docker                     12 mins         ████████▒░░░░░░░░░░░░░░░░   33.94 %
+XML                        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Brazil Dependency Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Shell Script               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+LOMBOK_CONFIG              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

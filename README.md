@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       7 hrs 12 mins   ███████████████████░░░░░░   75.90 %
-XML                        1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Brazil Dependency Config   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Kotlin                     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Markdown                   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Properties                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Java                       6 hrs 43 mins   █████████████████▒░░░░░░░   69.61 %
+Brazil Dependency Config   1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+XML                        1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Kotlin                     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Markdown                   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Properties                 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->

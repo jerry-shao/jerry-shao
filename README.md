@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          █████████████████████████   100.00 %
+Java                       7 mins          ████████████████████████▒   96.98 %
+Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->

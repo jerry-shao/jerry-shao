@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       7 mins          ████████████████████████▒   96.98 %
-Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Python                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java                       1 hr 32 mins    ██████████████▓░░░░░░░░░░   58.02 %
+XML                        35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+ActionScript 3             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Shell Script               8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Brazil Dependency Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->

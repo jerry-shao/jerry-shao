@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       10 hrs 30 mins  ██████████████████░░░░░░░   72.52 %
-Groovy                     1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Ezhil                      43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Brazil Dependency Config   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Assembly                   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Java                       7 hrs 32 mins   ███████████████████▒░░░░░   76.67 %
+Groovy                     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Assembly                   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Brazil Dependency Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JSON                       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->

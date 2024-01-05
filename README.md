@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   0 secs          █████████████████████████   100.00 %
+Java                       44 mins         █████████████████░░░░░░░░   68.19 %
+Brazil Dependency Config   16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
+GitIgnore file             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Groovy                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

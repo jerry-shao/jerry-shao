@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       2 hrs 52 mins   ████████████▓░░░░░░░░░░░░   51.05 %
-Brazil Dependency Config   1 hr 29 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-Gradle                     37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Groovy                     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Java Properties            12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Java                       2 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.99 %
+Brazil Dependency Config   1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Gradle                     37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Groovy                     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Java Properties            12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->

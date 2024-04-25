@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       3 hrs 13 mins   ███████████████████████▓░   94.40 %
-GitIgnore file             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Brazil Dependency Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Java                       3 hrs 14 mins   ███████████████████████▒░   92.79 %
+GitIgnore file             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Brazil Dependency Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ERB                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```

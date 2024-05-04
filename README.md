@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       17 mins         ██████████████████▓░░░░░░   75.32 %
-IDEA_MODULE                3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Brazil Dependency Config   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Java                       53 mins         ██████████████████████░░░   88.52 %
+IDEA_MODULE                6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->

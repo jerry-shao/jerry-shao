@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                       7 hrs 27 mins   ████████████████████░░░░░   79.78 %
-Java                       1 hr 47 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-IDEA_MODULE                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Text                       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Ruby                       7 hrs 27 mins   ██████████████████████░░░   87.54 %
+Java                       1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Text                       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby       6 mins          ████████████████░░░░░░░░░   63.34 %
+Java       3 mins          █████████░░░░░░░░░░░░░░░░   36.42 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

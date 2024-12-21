@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      14 mins         █████████░░░░░░░░░░░░░░░░   36.12 %
-Brazil Dependency Config   12 mins         ████████░░░░░░░░░░░░░░░░░   32.47 %
-Java                       12 mins         ████████░░░░░░░░░░░░░░░░░   31.41 %
+Other   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 22 mins         ██████████████░░░░░░░░░░░   55.81 %
-JSON                       15 mins         █████████▓░░░░░░░░░░░░░░░   38.05 %
-Other                      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

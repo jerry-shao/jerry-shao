@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       1 hr 55 mins    ███████████▒░░░░░░░░░░░░░   44.91 %
-Python                     44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-Groovy                     33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Brazil Dependency Config   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-TypeScript                 16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Java                       4 hrs 37 mins   █████████████▓░░░░░░░░░░░   54.66 %
+Python                     1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+TypeScript                 49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Groovy                     40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Brazil Dependency Config   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   5 mins          █████████████▒░░░░░░░░░░░   53.60 %
+Go         4 mins          ███████████▒░░░░░░░░░░░░░   44.82 %
+go.mod     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->

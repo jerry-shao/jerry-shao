@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Mermaid   9 mins          ███████████████░░░░░░░░░░   59.81 %
-Rust      4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-Other     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
